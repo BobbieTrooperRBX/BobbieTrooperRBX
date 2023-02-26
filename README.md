@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BobbieTrooperRBX
-- 👀 I’m interested in programming Roblox Luau & Python.
-- 🌱 I’m currently learning Roblox Luau & Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Discord: self.__Encoded#4849
+- 👋 Hi, I’m @BobbieTrooperRBX aka BobbieTrooper.
+- 👀 I’m interested in programming Roblox Luau.
+- 🌱 I’m currently learning/developing Roblox Luau.
+- 💞️ I’m looking to collaborate on Roblox
+- 📫 How to reach me: Discord: Smit#5980
 
 <!---
 BobbieTrooperRBX/BobbieTrooperRBX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
